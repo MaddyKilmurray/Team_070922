@@ -9,6 +9,6 @@ public class SpartanBench extends Spartan implements IWaiting {
 
     @Override
     public void whileWaiting() {
-        System.out.println("On Assignment");
+        System.out.println("Awaiting Assignment");
     }
 }
